@@ -8,9 +8,9 @@ The project is build from 3 parts:
   3. Super Resolution & Coloring
 
 The project was build by:
-    Lionel Richard Saposnik
-    Ran Fedida
-    Yehuda Weiss (me)
+ *   Lionel Richard Saposnik
+ *   Ran Fedida
+ *   Yehuda Weiss (me)
 
 
 Link to all of the project report & files:
